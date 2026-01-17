@@ -1,2 +1,2 @@
-# gregoriog
+# grecogg
 Open source repository
